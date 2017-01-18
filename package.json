@@ -1,0 +1,8 @@
+{
+  "name": "system-gltf",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:yrns/system-gltf.git",
+  "author": "Al McElrath <hello@yrns.org>",
+  "license": "MIT"
+}
